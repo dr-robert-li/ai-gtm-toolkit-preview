@@ -1,0 +1,10 @@
+anthropic
+python-docx
+python-dotenv
+openai
+pandas
+playwright
+PyPDF2
+requests
+streamlit
+textract
